@@ -1,0 +1,1 @@
+This is a Digital Clock Project which provieds information about Current time like hours, minutes and second. It can be really helpful to keet focused on our work and it can increase our productivity.
